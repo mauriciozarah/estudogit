@@ -4,3 +4,4 @@ Branch 3 colocado agora.[
 
 	Este e o branch 3 e estou utilizando o git para selecionar e fazer alteracoes.
 ]
+Acrescentando a git diff
