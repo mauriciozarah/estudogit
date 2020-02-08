@@ -1,1 +1,2 @@
-Estou aprendendo newbie git and github
+Estou aprendendo newbie git and github.
+Branch 2 colocado agora.
